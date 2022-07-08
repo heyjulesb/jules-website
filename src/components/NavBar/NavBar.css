@@ -1,0 +1,22 @@
+/* Navigation Bar Styling top right bottom left*/
+.navBar {
+  padding: 1rem 0rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.navLink {
+  padding-right: 2rem;
+}
+
+.navLink a {
+  text-decoration: none;
+  color:#d8ac7c;
+  font-family: 'Yeseva One', cursive;
+  font-size: 1.5rem;
+}
+
+.navList a:hover, a:active {
+  color:#6c8b7c;
+}

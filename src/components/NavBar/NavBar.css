@@ -1,22 +1,25 @@
 /* Navigation Bar Styling top right bottom left*/
 .navBar {
-  padding: 1rem 0rem;
+  padding: 3.2rem 0rem;
   display: flex;
   justify-content: flex-end;
+  background-color: #ab917f;
 }
 
-
-.navLink {
-  padding-right: 2rem;
-}
-
-.navLink a {
+a.navLink {
   text-decoration: none;
-  color:#d8ac7c;
+  color:#f5f3f5;
   font-family: 'Yeseva One', cursive;
   font-size: 2rem;
+  background-color: #ab917f;
+  padding-right: 3.2rem;
+  
 }
 
-.navList a:hover, a:active {
-  color:#6c8b7c;
+a:hover, a:active {
+  color:#3d5047;
 }
+
+
+
+/* #d8ac7c */

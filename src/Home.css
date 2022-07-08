@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  background-color: #e3e4e6;
+}
+
+html {
+/* 1rem = 10px */
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-size: 2rem;
+  font-family: 'Red Hat Mono';
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+p {
+  color: #2c1e1f;
+}

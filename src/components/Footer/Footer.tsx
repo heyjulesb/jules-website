@@ -1,8 +1,8 @@
 import React, { FC } from 'react';
 import './Footer.css';
-import twitterLogo from '../../resources/images/twitter_icon.png'
-import linkedinLogo from '../../resources/images/linkedin_icon.png'
-import githubLogo from '../../resources/images/github_icon.png'
+import twitterLogo from '../../resources/images/twitter_icon.png';
+import linkedinLogo from '../../resources/images/linkedin_icon.png';
+import githubLogo from '../../resources/images/github_icon.png';
 
 export const Footer: FC = () => {
   return (
@@ -31,7 +31,7 @@ export const Footer: FC = () => {
         </a>
       </div>
       <div className='footerCopyright'>
-        <p>Designed by Julie Luu | &#169; 2022</p>
+        <p className='footerMessage'>Designed by Julie Luu | &#169; 2022</p>
       </div>
     </footer>
   );

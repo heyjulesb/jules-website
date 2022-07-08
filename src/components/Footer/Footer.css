@@ -2,8 +2,12 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1rem;
-  border: 1px #08aa5c solid;
+  padding: 3rem;
+  /* border: 1px red solid; */
+}
+
+.footerMessage {
+  color:#3d5047;
 }
 
 .footerCopyright {

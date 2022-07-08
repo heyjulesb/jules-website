@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/jules-website/static/css/main.e4928a32.css",
-    "main.js": "/jules-website/static/js/main.88372b62.js",
+    "main.css": "/jules-website/static/css/main.c2553be6.css",
+    "main.js": "/jules-website/static/js/main.941bb8fa.js",
     "static/js/787.bbe01249.chunk.js": "/jules-website/static/js/787.bbe01249.chunk.js",
-    "static/media/julie_logo.png": "/jules-website/static/media/julie_logo.c955bbbc8bb5ce1fe504.png",
     "index.html": "/jules-website/index.html",
-    "main.e4928a32.css.map": "/jules-website/static/css/main.e4928a32.css.map",
-    "main.88372b62.js.map": "/jules-website/static/js/main.88372b62.js.map",
+    "main.c2553be6.css.map": "/jules-website/static/css/main.c2553be6.css.map",
+    "main.941bb8fa.js.map": "/jules-website/static/js/main.941bb8fa.js.map",
     "787.bbe01249.chunk.js.map": "/jules-website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4928a32.css",
-    "static/js/main.88372b62.js"
+    "static/css/main.c2553be6.css",
+    "static/js/main.941bb8fa.js"
   ]
 }

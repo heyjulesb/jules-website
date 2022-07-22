@@ -2,8 +2,6 @@ import React, { FC } from 'react';
 import './Intro.css';
 import profilePhoto from '../../resources/images/jl.jpeg';
 
-
-
 export const Intro: FC = () => {
   return (
     <>

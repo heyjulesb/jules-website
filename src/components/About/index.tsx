@@ -1,1 +1,1 @@
-export {}
+export { About } from './About'

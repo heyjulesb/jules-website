@@ -16,8 +16,8 @@ export const Intro: FC = () => {
           <img className="mainImage" src={profilePhoto} alt='woman in green top wearing glasses' />
         </div>
         <div className="messageContainer">
-            <p className="introMessage">I'm Julie.</p>
-            <p className="introParagraph"> - Junior Software Engineer. This is my personal website.</p>
+          <p className="introMessage">I'm Julie.</p>
+          <p className="introParagraph"> Welcome to my personal website. The website is built with love, using React, CSS and Typescipt.</p>
         </div>
       </main>
     </>

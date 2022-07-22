@@ -1,0 +1,13 @@
+.aboutContainer {
+  border-style: solid;
+  border-color: red;
+}
+
+.aboutHeader {
+  /* text-align: center;  */
+  color: #6c8b7c;
+  font-family: 'Yeseva One';
+  font-size: 4rem;
+  margin: 0;
+  padding: 1.2rem 0rem 1.2rem 4rem;
+}

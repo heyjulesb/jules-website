@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jules-website/static/css/main.5f96418c.css",
-    "main.js": "/jules-website/static/js/main.91bba034.js",
-    "static/js/787.bbe01249.chunk.js": "/jules-website/static/js/787.bbe01249.chunk.js",
+    "main.css": "/jules-website/static/css/main.7663927f.css",
+    "main.js": "/jules-website/static/js/main.24754851.js",
+    "static/js/787.4018812c.chunk.js": "/jules-website/static/js/787.4018812c.chunk.js",
     "static/media/jl.jpeg": "/jules-website/static/media/jl.2f8d8be29892fdd69493.jpeg",
     "index.html": "/jules-website/index.html",
-    "main.5f96418c.css.map": "/jules-website/static/css/main.5f96418c.css.map",
-    "main.91bba034.js.map": "/jules-website/static/js/main.91bba034.js.map",
-    "787.bbe01249.chunk.js.map": "/jules-website/static/js/787.bbe01249.chunk.js.map"
+    "main.7663927f.css.map": "/jules-website/static/css/main.7663927f.css.map",
+    "main.24754851.js.map": "/jules-website/static/js/main.24754851.js.map",
+    "787.4018812c.chunk.js.map": "/jules-website/static/js/787.4018812c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f96418c.css",
-    "static/js/main.91bba034.js"
+    "static/css/main.7663927f.css",
+    "static/js/main.24754851.js"
   ]
 }

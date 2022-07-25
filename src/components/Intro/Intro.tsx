@@ -17,7 +17,7 @@ export const Intro: FC = () => {
         </div>
         <div className="messageContainer">
           <p className="introMessage">I'm Julie.</p>
-          <p className="introParagraph"> Welcome to my personal website. The website is built with love, using React, CSS and Typescipt.</p>
+          <p className="introParagraph"> Welcome to my personal website. The website is built with love, using React, CSS and TypeScript.</p>
         </div>
       </main>
     </>

@@ -1,4 +1,4 @@
-.aboutContainer {
+.aboutWrapper {
   border-style: solid;
   border-color: red;
 }
@@ -6,8 +6,26 @@
 .aboutHeader {
   /* text-align: center;  */
   color: #6c8b7c;
-  font-family: 'Yeseva One';
+  font-family: 'Homemade Apple', cursive;
   font-size: 4rem;
   margin: 0;
-  padding: 1.2rem 0rem 1.2rem 4rem;
+  padding: 2rem 0rem 0rem 4rem;
+}
+
+.aboutMessageContainer {
+  /* border-style: solid;
+  border-color: blue; */
+  margin-left: 14rem;
+  max-width: 85%;
+  font-size: 1.7rem;
+  margin-bottom: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: #ab917f;
+  font-weight: bold;
+}
+a:hover, a:active {
+  color:#3d5047;
 }

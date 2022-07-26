@@ -48,8 +48,14 @@ export const About: FC = () => {
               <Link to='https://dazngroup.com/' target='_blank'>
                 DAZN
               </Link>
-              , who at the end of the Nanodegree offered a one year placement,
-              as a Junior Software Engineer.
+              , who at the end of the Nanodegree offered me a one year
+              placement, as a Junior Software Engineer.
+            </p>
+            <br />
+            <p>
+              Besides from learning to code, I'm also a self-professed food
+              fanatic, love travelling and I have a huge interest in beauty and
+              skincare. ✨💫
             </p>
           </div>
         </div>
